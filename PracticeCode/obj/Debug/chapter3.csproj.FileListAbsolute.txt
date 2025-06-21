@@ -1,0 +1,14 @@
+C:\Users\raazs\source\repos\chapter3\chapter3\bin\Debug\chapter3.exe.config
+C:\Users\raazs\source\repos\chapter3\chapter3\bin\Debug\chapter3.exe
+C:\Users\raazs\source\repos\chapter3\chapter3\bin\Debug\chapter3.pdb
+C:\Users\raazs\source\repos\chapter3\chapter3\obj\Debug\chapter3.csproj.AssemblyReference.cache
+C:\Users\raazs\source\repos\chapter3\chapter3\obj\Debug\chapter3.csproj.CoreCompileInputs.cache
+C:\Users\raazs\source\repos\chapter3\chapter3\obj\Debug\chapter3.exe
+C:\Users\raazs\source\repos\chapter3\chapter3\obj\Debug\chapter3.pdb
+E:\chapter3\chapter3\bin\Debug\chapter3.exe.config
+E:\chapter3\chapter3\bin\Debug\chapter3.exe
+E:\chapter3\chapter3\bin\Debug\chapter3.pdb
+E:\chapter3\chapter3\obj\Debug\chapter3.csproj.AssemblyReference.cache
+E:\chapter3\chapter3\obj\Debug\chapter3.csproj.CoreCompileInputs.cache
+E:\chapter3\chapter3\obj\Debug\chapter3.exe
+E:\chapter3\chapter3\obj\Debug\chapter3.pdb
